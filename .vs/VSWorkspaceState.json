@@ -3,9 +3,9 @@
     "",
     "\\docs",
     "\\docs\\vi",
-    "\\docs\\vi\\KeywordManagements\\CheckRankings",
+    "\\docs\\vi\\KeywordManagements",
     "\\docs\\vi\\ProjectManagements"
   ],
-  "SelectedNode": "\\docs\\vi\\KeywordManagements",
+  "SelectedNode": "\\docs\\vi\\ProjectManagements\\Create.md",
   "PreviewInSolutionExplorer": false
 }

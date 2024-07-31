@@ -15,15 +15,38 @@
       ]
     },
     {
+      "text": "Công cụ Quản lý backlink",
+      "path": "BacklinkManagements/Overall.md",
+      "items": [
+        {
+          "text": "Tạo mới",
+          "path": "BacklinkManagements/Create.md"
+        },
+        {
+          "text": "Import",
+          "path": "BacklinkManagements/Create.md"
+        },
+        {
+          "text": "Kiểm tra backlink",
+          "items": [
+            {
+              "text": "Sử dụng Extension",
+              "path": "BacklinkManagements/ByExtension.md"
+            },
+            {
+              "text": "Tự động",
+              "path": "BacklinkManagements/Auto.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "text": "Công cụ quản lý từ khoá",
       "path": "KeywordManagements/Overall.md",
       "items": [
         {
           "text": "Tạo mới",
-          "path": "KeywordManagements/Create.md"
-        },
-        {
-          "text": "Kiểm tra thứ hạng",
           "path": "KeywordManagements/Create.md"
         },
         {
