@@ -3,12 +3,12 @@
     {
       "DisplayName" : "Vietnam",
       "Code" : "vi",
-      "IsDefault": true
+      "IsDefault": false
     },
     {
       "DisplayName" : "English",
       "Code" : "en",
-      "IsDefault": false
+      "IsDefault": true
     }	
   ]
 }
