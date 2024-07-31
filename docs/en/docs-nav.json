@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "text": "Giới thiệu",
+      "path": "Index.md"
+    },
+    {
+      "text": "Quản lý dự án",
+      "path": "ProjectManagements/Overall.md",
+      "items": [
+        {
+          "text": "Tạo mới",
+          "path": "ProjectManagements/Create.md"
+        }
+      ]
+    },
+    {
+      "text": "Công cụ quản lý từ khoá",
+      "path": "KeywordManagements/Overall.md",
+      "items": [
+        {
+          "text": "Tạo mới",
+          "path": "KeywordManagements/Create.md"
+        },
+        {
+          "text": "Kiểm tra thứ hạng",
+          "path": "KeywordManagements/Create.md"
+        },
+        {
+          "text": "Kiểm tra thứ hạng",
+          "items": [
+            {
+              "text": "Sử dụng Extension",
+              "path": "KeywordManagements/CheckRankings/ByExtension.md"
+            },
+            {
+              "text": "Tự động",
+              "path": "KeywordManagements/CheckRankings/Auto.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
